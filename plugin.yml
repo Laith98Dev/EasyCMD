@@ -1,0 +1,14 @@
+name: EasyCMD
+main: LaithYT\ECMD\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+load: POSTWORLD
+author: LaithYT
+description: BY LAITHYT EASY CMD IN GAME
+website: https://github.com/laith98
+
+commands:
+ ecmd:
+  description: "OpenUI EasyCMD Plugin Fun ^_^!"
+  usage: "/ecmd"
+
